@@ -1,0 +1,12 @@
+show drive 
+df -h 
+
+show release 
+cat /etc/os-release
+
+
+measure temperature 
+vcgencmd measure_temp 
+
+show local ip adress
+ping raspberrypi.local

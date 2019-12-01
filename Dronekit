@@ -1,0 +1,4 @@
+Starting drone kit
+sudo -s
+mavproxy.py --master=/dev/ttyACM0 --baudrate 921600 --aircraft MyCopter
+
